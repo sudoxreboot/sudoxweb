@@ -1,0 +1,11 @@
+{
+    "KPlugin": {
+        "Name": "steam launcher",
+        "Description": "launch and stop steam games",
+        "Id": "sudox.steam.launcher",
+        "Version": "1",
+        "Category": "Utility"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}

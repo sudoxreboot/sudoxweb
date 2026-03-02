@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Name": "sudoxweb",
+        "Description": "web widget for plasma 6",
+        "Id": "sudox.frigate.viewer",
+        "Version": "1",
+        "Icon": "icon",
+        "Category": "Utility"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}

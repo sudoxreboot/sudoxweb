@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+    <kcfgfile name=""/>
+    <group name="General">
+        <entry name="url" type="String"><default></default></entry>
+        <entry name="showAddressBar" type="Bool"><default>false</default></entry>
+        <entry name="hideToolbar" type="Bool"><default>false</default></entry>
+        <entry name="privateMode" type="Bool"><default>false</default></entry>
+        <entry name="transparentBg" type="Bool"><default>true</default></entry>
+        <entry name="widgetOpacity" type="Int"><default>100</default></entry>
+        <entry name="textOpacity" type="Int"><default>100</default></entry>
+        <entry name="textColor" type="String"><default>#ffffff</default></entry>
+        <entry name="buttonOpacity" type="Int"><default>10</default></entry>
+        <entry name="fav1url" type="String"><default></default></entry>
+        <entry name="fav1name" type="String"><default></default></entry>
+        <entry name="fav2url" type="String"><default></default></entry>
+        <entry name="fav2name" type="String"><default></default></entry>
+        <entry name="fav3url" type="String"><default></default></entry>
+        <entry name="fav3name" type="String"><default></default></entry>
+        <entry name="fav4url" type="String"><default></default></entry>
+        <entry name="fav4name" type="String"><default></default></entry>
+        <entry name="fav5url" type="String"><default></default></entry>
+        <entry name="fav5name" type="String"><default></default></entry>
+    </group>
+</kcfg>
