@@ -1,3 +1,21 @@
+<table word-break="normal">
+  <tr>
+    <td width="250" height="150" align="center" valign="middle">
+      <img src="screenshots/sudoxweb_landing.png" width="250" height="150" style="object-fit: contain;">
+    </td>
+    <td width="250" height="150" align="center" valign="middle">
+      <img src="screenshots/sudoxweb_general_settings.png" width="250" height="150" style="object-fit: contain;">
+    </td>
+    <td width="250" height="150" align="center" valign="middle">
+      <img src="screenshots/sudoxweb_appearance_settings.png" width="250" height="150" style="object-fit: contain;">
+    </td>
+    <td width="250" height="150" align="center" valign="middle">
+      <img src="screenshots/sudoxweb_favorites_settings.png" width="250" height="150" style="object-fit: contain;">
+    </td>
+  </tr>
+</table>
+
+
 # sudoxweb
 
 a collection of plasma 6 desktop widgets built by [sudoxreboot](https://sudoxreboot.com).
